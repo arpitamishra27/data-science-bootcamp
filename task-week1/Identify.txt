@@ -1,5 +1,5 @@
 Please enter your details:
 
-Name: 
-NETID:
-Favorite book and author: 
+Name:Arpita Mishra
+NETID: am11432
+Favorite book and author: Ikigai by Francesc Miralles and Hector Garcia 
